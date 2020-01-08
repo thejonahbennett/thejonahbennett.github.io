@@ -1,15 +1,13 @@
-# This is a heading
 
-## Here's a smaller heading
 
-This is a paragraph
+# Jonah Bennett Github
 
-* Here's a bulleted list
-* Another item
+## Content archives
 
-1. And an ordered list
-1. The numbers don't matter
+Page development in progress. 
 
-> This is a qoute
+Currently, I focus on editing [Palladium Magazine](https://palladiummag.com) and photography/coding projects on the side. This is a repository for discusing my thoughts on computer science and how programming languages *should* work.  
 
-[This is a link to Google](https://google.com)
+[This is a link to my personal page](https://jonahbennett.com)
+[And this is a link to my Medium page](https://medium.com/@thejonahbennett)
+[Also check out my Instagram](https://instagram.com/thejonahbennett)
